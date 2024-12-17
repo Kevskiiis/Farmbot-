@@ -15,7 +15,7 @@ When the G-Code is executed, the process begins by picking up a seed from a seed
 #### The Brain of the Project: (Circuit Board)
 <img src="Central_Board.jpg" alt="Basic Calculator User Interface" width="300" />
 
-#### The Vacuum Pump: (Seed Catcher)
+#### The Vacuum Pump and Water Valve: (Seed Catcher & Waterer)
 <img src="Vacuum_Pump.jpg" alt="Basic Calculator User Interface" width="300" />
 
 #### Farmbot Design (Architecture)
