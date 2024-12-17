@@ -11,3 +11,14 @@ An electric water valve attached to the head allows the flow of water upon instr
 When the G-Code is executed, the process begins by picking up a seed from a seed tray using the vacuum. The head then moves to the designated spot, lowers to drop off the seed, opens the water valve to water the seed, and finally, rises to return for the next seed. This repetitive task continues until the entire tray is finished.
 
 ### Images of Project: 
+
+#### The Brain of the Project: (Circuit Board)
+<img src="Central_Board.jpg" alt="Basic Calculator User Interface" width="300" />
+
+#### The Vacuum Pump: (Seed Catcher)
+<img src="Vacuum_Pump.jpg" alt="Basic Calculator User Interface" width="300" />
+
+#### Farmbot Design (Architecture)
+<img src="Farmbot_Architecture.jpg" alt="Basic Calculator User Interface" width="300" />
+
+
